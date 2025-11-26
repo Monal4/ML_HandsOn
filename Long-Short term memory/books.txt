@@ -1,0 +1,13 @@
+Christopher Olah — “Understanding LSTM Networks” (his blog post) — one of the best intuitive explanations.
+colah.github.io
+
+An Intuitive Explanation of LSTM on Medium — good non-mathematical walk-through.
+Medium
+
+Analytics Vidhya article “Introduction to LSTM” — more practical, with code examples.
+Analytics Vidhya
+
+The original LSTM paper by Sepp Hochreiter & Jürgen Schmidhuber — for the full math background.
+deeplearning.cs.cmu.edu
+
+The tutorial “Fundamentals of RNN and LSTM” (Sherstinsky) — good bridging text + math.

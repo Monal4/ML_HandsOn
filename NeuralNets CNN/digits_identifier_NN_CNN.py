@@ -190,8 +190,7 @@ class Network:
 
 
 def main():
-    network = Network([169, 70, 10])
-    network = Network([169, 70, 10])
+    network = Network([169, 30, 10])
 
     training_dataset = keras.datasets.mnist.load_data()[0]
     testing_dataset = keras.datasets.mnist.load_data()[1]
